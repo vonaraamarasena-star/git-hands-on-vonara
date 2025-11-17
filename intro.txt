@@ -1,3 +1,7 @@
 My first Git hands on- activity.
 GitHub username: <vonaraamarsena-star>
 Date: 2025-11-17
+git add intro.txt
+git commit -m"Update intro file"
+git push
+This is my updated version 
